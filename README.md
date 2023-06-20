@@ -1,5 +1,5 @@
 # French-Food Live Link:-
-  Website Link -> [https://job-hunter-assignment.netlify.app](https://job-hunter-assignment.netlify.app)
+  Website Link -> [https://french-food-lounge.web.app](https://french-food-lounge.web.app)
 
 ## Best Features of this website :-
 + Featured Chef Section.

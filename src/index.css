@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.boxed-container{
+  @apply px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20
+}
+
+.btn-primary{
+  @apply  font-medium  transition duration-200  shadow-md  md:mb-0  px-4 py-2 md:px-8 md:py-3 m-2 text-lg rounded-full border-transparent border-2  text-gray-700 hover:bg-amber-200 bg-amber-500
+}
+
+.btn-outlined{
+  @apply  font-medium  transition duration-200  shadow-md  md:mb-0  px-4 py-2 md:px-8 md:py-3 m-2 text-lg rounded-full  text-gray-700 hover:bg-cyan-400 hover:border-transparent border-2 border-cyan-200
+}
+
+.active{
+  @apply font-medium tracking-wide text-amber-500 transition-colors duration-200
+}
+
+.default{
+  @apply font-medium tracking-wide text-black transition-colors duration-200 hover:text-amber-500
+}
+.chef-title{
+  @apply font-semibold md:text-4xl text-2xl
+}
